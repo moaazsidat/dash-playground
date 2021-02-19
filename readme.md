@@ -2,7 +2,7 @@
 
 Experiments with [Dash](https://dash.plotly.com/)
 
-This repo is setup to load custom styles for each route of the app (each report).
+This repo demos multi-page apps, split by route, with custom styles for each route (each report).
 
 ## Getting starting
 
