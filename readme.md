@@ -12,7 +12,7 @@ This repo is setup to load custom styles for each route of the app (each report)
 poetry install
 ```
 
-### Run app on `localhost:8000`
+### Run app on `localhost:8050`
 ```
 poetry run main.py
 ```
